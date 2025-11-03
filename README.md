@@ -1,6 +1,11 @@
 # Program Vending MAchine
 Repository ini dibuat dalam rangka memenuhi Tugas Besar mata kuliah Berpikir Komputasional. Kelompok kami terdiri dari 
 1. Banu Agil triyanto 19625095
+2. Fakhri Athallah Dwi Andeo	19625111
+3. Faiq Fadhlul bahri		19625107
+4. Steve Bradley Hoeij		19625163
+5. Muhammad Razka Adhitya 	19625051
+
 
 Program Vending Machine ITB adalah simulasi mesin penjual otomatis berbasis teks yang dibuat dengan bahasa Python. Program ini memungkinkan dua peran pengguna:
 
